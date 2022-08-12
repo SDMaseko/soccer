@@ -1,0 +1,6 @@
+{
+  "appId": "com.soccer",
+  "appName": "soccer",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
